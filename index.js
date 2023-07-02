@@ -19,3 +19,5 @@
 let x=67;
 console.log(0/0);
 console.log("10"/"2");
+
+console.log("adu");
